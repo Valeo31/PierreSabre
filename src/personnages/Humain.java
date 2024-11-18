@@ -4,7 +4,7 @@ package personnages;
 
 public class Humain {
 
-	public static int NB_MAX_CONNAISSANCES = 3;
+	public static int NB_MAX_CONNAISSANCES = 30;
 	
 	private String nom;
 	private String boissonFavorite;
